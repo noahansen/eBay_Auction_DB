@@ -1,0 +1,8 @@
+.separator |
+.import "items.DAT" Items
+update Items set description = null where description = 'NULL';
+.import "bids.DAT" Bids
+.import "categories.DAT" Categories
+.import "users.DAT" Users
+update Users set location = null where location = 'NULL';
+update Users set country = null where location = 'NULL';
