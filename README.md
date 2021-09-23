@@ -1,7 +1,7 @@
 # eBay Auction DataBase
 
 ## Purpose
-To apply the principles of database design to implement a good relational schema.
+To apply the principles of database design to implement a good relational schema for ebay auction data.
 
 ## Data
 The data comes from eBay's website, representing a single point in time: December 20th, 2001, 00:00:01
